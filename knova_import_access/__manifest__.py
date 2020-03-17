@@ -20,7 +20,7 @@ Suggestions & Feedback to: Muhammad Salman
     "summary": "",
     "website": "https://www.knovatek.com",
     "category": 'Tools',
-    'images': ['static/description/main.png'],
+    "images": ['static/description/banner.png'],
     "sequence": 20,
     "data": [
         'security/web_impex_security.xml',
